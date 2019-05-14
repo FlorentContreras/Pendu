@@ -1,5 +1,5 @@
 # Pendu
-Small "Pendu" game, discover word (in franch) before being hanged 
+Small "Pendu" game, discover word (in french) before being hanged 
 
 Data are in "donnee.py"
 All functions are in "fonction.py"
